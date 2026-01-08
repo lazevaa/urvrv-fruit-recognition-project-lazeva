@@ -1,0 +1,16 @@
+FRUIT RECOGNITION - CLASSIFICATION REPORT
+============================================================
+
+              precision    recall  f1-score   support
+
+       Apple      1.000     1.000     1.000       164
+      Banana      1.000     0.351     0.519        77
+      Cherry      0.000     0.000     0.000       231
+        Kiwi      0.378     1.000     0.548       156
+       Mango      1.000     1.000     1.000       166
+       Peach      0.000     0.000     0.000         0
+        Pear      0.979     1.000     0.989       233
+
+    accuracy                          0.726      1027
+   macro avg      0.622     0.622     0.580      1027
+weighted avg      0.676     0.726     0.668      1027

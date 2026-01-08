@@ -1,0 +1,29 @@
+{
+  "classes": [
+    "Apple",
+    "Banana",
+    "Cherry",
+    "Kiwi",
+    "Mango",
+    "Peach",
+    "Pear"
+  ],
+  "class_to_idx": {
+    "Apple": 0,
+    "Banana": 1,
+    "Cherry": 2,
+    "Kiwi": 3,
+    "Mango": 4,
+    "Peach": 5,
+    "Pear": 6
+  },
+  "idx_to_class": {
+    "0": "Apple",
+    "1": "Banana",
+    "2": "Cherry",
+    "3": "Kiwi",
+    "4": "Mango",
+    "5": "Peach",
+    "6": "Pear"
+  }
+}
