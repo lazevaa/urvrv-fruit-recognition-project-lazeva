@@ -329,4 +329,6 @@ If you encounter issues:
 
 ---
 
-**Made with ❤️ for fresh fruit lovers!** 🍎🍌🍊🍇
+## Author
+Lazeva, Computer Science student at FERI, University of Maribor
+Course project: Uvod v Računalniški Vid in Razpoznavanje Vzorcev 2025/26
