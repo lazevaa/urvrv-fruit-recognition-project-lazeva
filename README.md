@@ -289,7 +289,8 @@ This project is for educational purposes.
 
 ## 👤 Author
 
-**Jovana Lazeva**
+**Jovana Lazeva**  Computer Science student at FERI, University of Maribor
+Course project: Uvod v Računalniški Vid in Razpoznavanje Vzorcev 2025/26
 
 ## 🙏 Acknowledgments
 
@@ -328,7 +329,3 @@ If you encounter issues:
 - [ ] Database of ripening tips
 
 ---
-
-## Author
-Lazeva, Computer Science student at FERI, University of Maribor
-Course project: Uvod v Računalniški Vid in Razpoznavanje Vzorcev 2025/26
