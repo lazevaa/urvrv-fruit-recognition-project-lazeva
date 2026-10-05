@@ -289,8 +289,8 @@ This project is for educational purposes.
 
 ## 👤 Author
 
-**Jovana Lazeva**  Computer Science student at FERI, University of Maribor
-Course project: Uvod v Računalniški Vid in Razpoznavanje Vzorcev 2025/26
+  - **Jovana Lazeva**  Computer Science student at FERI, University of Maribor
+  - Course project: Uvod v Računalniški Vid in Razpoznavanje Vzorcev 2025/26
 
 ## 🙏 Acknowledgments
 
